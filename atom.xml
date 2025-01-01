@@ -6,7 +6,7 @@
   <link href="https://alphardex.github.io/mygo/atom.xml" rel="self"/>
   
   <link href="https://alphardex.github.io/mygo/"/>
-  <updated>2024-10-06T15:04:28.153Z</updated>
+  <updated>2025-01-01T05:35:35.946Z</updated>
   <id>https://alphardex.github.io/mygo/</id>
   
   <author>
@@ -19,6 +19,23 @@
     <feedId>70027878673944576</feedId>
     <userId>56524146701268992</userId>
   </follow_challenge>
+  
+  <entry>
+    <title>一个普通魔法使的 2024 年终总结</title>
+    <link href="https://alphardex.github.io/mygo/posts/62205/"/>
+    <id>https://alphardex.github.io/mygo/posts/62205/</id>
+    <published>2025-01-01T05:35:00.000Z</published>
+    <updated>2025-01-01T05:35:35.946Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s2.loli.net/2024/12/28/rv5sRFTfJOSzICx.jpg&quot; alt=&quot;laptop-tomori&quot;&gt;&lt;/p&gt;
+&lt;p&gt;这里是 alphardex。&lt;/p&gt;
+&lt;p&gt;时间很快，一年过去了，又到了总结的时候。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>国庆上海 2 日游——二次元之旅</title>
@@ -356,21 +373,6 @@
     
     <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;大家好，这里是 CSS 兼 WebGL 魔法使——alphardex。本文就让我们来用&lt;a href=&quot;https://github.com/alphardex/kokomi.js&quot;&gt;kokomi.js&lt;/a&gt;实现一个非常经典的物理游戏——粉碎弹珠（&lt;a href=&quot;https://baike.baidu.com/item/Smash%20Hit/13212932?fr=aladdin&quot;&gt;Smash Hit&lt;/a&gt;）。&lt;/p&gt;
 &lt;p&gt;游戏中你将成为一颗弹珠，通过弹射来粉碎面前的一切障碍物，特别适合用来解压。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>kokomi.js——Web 3D 创作的得力助手</title>
-    <link href="https://alphardex.github.io/mygo/posts/56558/"/>
-    <id>https://alphardex.github.io/mygo/posts/56558/</id>
-    <published>2022-03-24T05:21:00.000Z</published>
-    <updated>2024-05-22T12:48:56.050Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;大家好，这里是 CSS 兼 WebGL 魔法使——alphardex。本文我们将认识一位新的小伙伴——&lt;a href=&quot;https://github.com/alphardex/kokomi.js&quot;&gt;kokomi.js&lt;/a&gt;，她能带给大家绝赞的 3D 创作体验~&lt;/p&gt;</summary>
     
     
     
